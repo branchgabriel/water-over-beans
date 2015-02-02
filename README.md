@@ -9,9 +9,10 @@ the install is so easy
 ### example
 
 ####testing if nojs is working
-[
-   // its just that easy
-]
+```
+   
+   
+```
 
 
 
