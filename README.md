@@ -1,2 +1,17 @@
 # water-over-beans
-a nojs testing framework
+
+The definitive testing framework for the definitive library you didn't know you were using already
+
+### installation
+
+the install is so easy 
+
+### example
+
+####testing if nojs is working
+[
+   // its just that easy
+]
+
+
+
