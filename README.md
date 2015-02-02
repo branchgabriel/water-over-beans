@@ -1,7 +1,9 @@
 # water-over-beans
 
-The definitive testing framework for the definitive library you didn't know you were already using 
+The definitive testing framework for the definitive library you didn't know you were already using, 
 
+#nojs
+https://github.com/jhohman/nojs
 Features:
 ====
 1. No need to setup a test runner.
