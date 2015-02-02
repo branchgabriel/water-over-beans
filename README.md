@@ -23,5 +23,7 @@ the install is so easy
    
 ```
 
+#Buzzwords:
+Fast, Simple, Peace of mind.
 
 
